@@ -1,0 +1,104 @@
+h1{
+   color:#A4A400;
+   background-color: #F0F0F0;
+   font-family: Lucida Sans Unicode;
+   font-size: 22pt;
+   text-align: center;
+   font-weight: bold;
+   text-decoration: underline;
+ }
+h2{
+   color:#404040;
+   background-color: #F0F0F0;
+   font-family:  Georgia,
+Garamond;
+   font-size: 11pt;
+   text-align: left;
+   font-weight: normal;
+   text-decoration: normal;
+ }
+h3{
+   color: #A4A400;
+   background-color: #F0F0F0;
+   font-family:   Lucida Sans Unicode;
+   font-size: 18pt;
+   text-align: left;
+   font-weight: normal;
+   text-decoration: underline;
+ }
+h4{
+   color:#404040;
+   background-color: #F0F0F0;
+   font-family:  Georgia,
+Garamond;
+   font-size: 11pt;
+   text-align: left;
+   font-weight: normal;
+   text-decoration: normal;
+ }
+h5{
+   color: #A4A400;
+   background-color: #F0F0F0;
+   font-family:   Lucida Sans Unicode;
+   font-size: 18pt;
+   text-align: left;
+   font-weight: normal;
+   text-decoration: underline;
+ }
+h6{
+   color: #404040;
+   background-color: #FFFFA8;
+   font-family:   Georgia,
+Garamond;
+   font-size: 11pt;
+   text-align: left;
+   font-weight: normal;
+   font-style: italic;
+   text-decoration: normal;
+ }
+bold{
+   color:#404040;
+   background-color: #F0F0F0;
+   font-family:  Georgia,
+Garamond;
+   font-size: 11pt;
+   text-align: left;
+   font-weight: bold;
+   text-decoration: normal;
+ }
+bold2{
+   color: #404040;
+   background-color: #FFFFA8;
+   font-family:   Georgia,
+Garamond;
+   font-size: 11pt;
+   text-align: left;
+   font-weight: bold;
+   font-style: italic;
+   text-decoration: normal;
+ }
+h7{
+   color:#A4A400;
+   background-color: #F0F0F0;
+   font-family:  Georgia,
+Garamond;
+   font-size: 11pt;
+   text-align: left;
+   font-weight: normal;
+   text-decoration: normal;
+ }
+h8{
+   color:#404040;
+   background-color: #F0F0F0;
+   font-family:  monospace;
+   font-size: 11pt;
+   text-align: left;
+   font-weight: normal;
+   text-decoration: normal;
+ }
+p {
+  text-indent: 2em;
+}
+p2 {
+  text-indent: 4em;
+}
